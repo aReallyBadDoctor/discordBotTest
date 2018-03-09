@@ -1,0 +1,8 @@
+{
+  "name": "totobot",
+  "version": "1.0.0",
+  "description": "you know we up in here with toto's greatest hit",
+  "main": "bot.js",
+  "author": "Joshua Liefeld",
+  "dependencies": {}
+}
